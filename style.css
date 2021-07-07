@@ -35,8 +35,10 @@ h1.test {
     width: 300px;
     height: 300px;
     display: inline-block;
-    /* margin: 20px 5px; */
 }
+
+
+/* Below : style for card 1 */
 
 #card1::before {
     content: '';
@@ -151,8 +153,6 @@ h1.test {
     background-position: center;
     background-size: cover;
 }
-
-
 
 
 @media screen and (max-width: 925px) {
